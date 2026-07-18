@@ -1,0 +1,31 @@
+{
+  "name": "DC Green Events",
+  "short_name": "DC Green",
+  "description": "Environmental volunteer events across the Washington, DC area — cleanups, tree plantings, nature tours, and advocacy in one place.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fbfbfa",
+  "theme_color": "#16643f",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
