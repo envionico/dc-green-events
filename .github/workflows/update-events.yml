@@ -1,0 +1,77 @@
+name: Weekly event source check
+
+on:
+  schedule:
+    - cron: "0 13 * * 1" # Mondays 13:00 UTC ≈ 9am ET
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+jobs:
+  import-feeds:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Import Kingman Island iCal feed into pending queue
+        run: |
+          node scripts/import-ics.mjs \
+            --url "https://www.kingmanisland.com/calendar?format=ical" \
+            --org "Kingman Island calendar — set true organizer during review" \
+            --write || echo "feed unavailable — skipping"
+      - name: Open a review PR if there are new candidates
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: auto/event-candidates
+          title: "New event candidates for review"
+          commit-message: "chore: import event candidates from iCal feeds"
+          body: |
+            The weekly feed import found new event candidates in
+            `public/data/pending-events.json`.
+
+            **Review checklist for each candidate:**
+            1. Open its link and confirm the event is real and upcoming.
+            2. Set the true `organization`, `eventType`, and location `lat`/`lng`.
+            3. Set `lastChecked` to today; fill any confirmed fields.
+            4. Move it into `public/data/events.json` with the next free `id`
+               and delete it from the pending file.
+            5. Merge — the build validates everything (duplicates included).
+          add-paths: |
+            public/data/pending-events.json
+
+  watch-sources:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Check organizer pages for changes
+        id: check
+        run: node scripts/check-sources.mjs | tee /tmp/report.txt
+      - name: Open an issue listing changed sources
+        if: contains(steps.check.outputs.changes, 'true')
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const report = fs.readFileSync('/tmp/report.txt', 'utf8');
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `Event sources changed — review needed (${new Date().toISOString().slice(0,10)})`,
+              body: 'The weekly source check found changes. Review the pages marked ★ and add any new events to `public/data/events.json`.\n\n```\n' + report + '\n```',
+            });
+      - name: Accept current state as the new baseline
+        run: |
+          node scripts/check-sources.mjs --update > /dev/null
+          git config user.name "source-check-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add scripts/source-cache.json
+          git diff --cached --quiet || git commit -m "chore: update source-check baseline"
+          git push
