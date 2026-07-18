@@ -1,0 +1,1261 @@
+[
+  {
+    "id": "1",
+    "title": "Neighborhood Invasive Vine Removal in Hyattsville",
+    "organization": "Casey Trees",
+    "date": "2026-07-11",
+    "startTime": "9:00 AM",
+    "location": {
+      "neighborhood": "University Hills",
+      "address": "University Hills Park, 3400 Stanford Street, Hyattsville, MD",
+      "lat": 38.9556,
+      "lng": -76.943
+    },
+    "eventType": "Park Cleanup",
+    "signupUrl": "https://caseytrees.org/event/neighborhood-invasive-vine-removal-in-hyattsville-11/",
+    "description": "Join the Hyattsville Tree Stewards and the City of Hyattsville to remove invasive vines around the neighborhood. Tools and guidance provided.",
+    "endTime": null,
+    "sourceUrl": "https://caseytrees.org/get-involved/volunteer-events/",
+    "lastChecked": "2026-06-30",
+    "registrationStatus": "open",
+    "cost": "free",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": true,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "invasive-species",
+      "trees"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "2",
+    "title": "Nature Every Month: Urban Forest Hike with Soul Trak",
+    "organization": "Casey Trees",
+    "date": "2026-07-25",
+    "startTime": "10:00 AM",
+    "location": {
+      "neighborhood": "Anacostia",
+      "address": "Anacostia Community Museum, 1901 Fort Place SE, Washington, DC",
+      "lat": 38.8586,
+      "lng": -76.9772
+    },
+    "eventType": "Education",
+    "signupUrl": "https://caseytrees.org/event/nature-every-month-urban-forest-hike-with-soul-trak/",
+    "description": "A Soul Trak Outdoors and Casey Trees partnership. Join a guided urban forest hike exploring the trees and nature around the Anacostia Community Museum.",
+    "endTime": null,
+    "sourceUrl": "https://caseytrees.org/get-involved/volunteer-events/",
+    "lastChecked": "2026-06-30",
+    "registrationStatus": "open",
+    "cost": "unknown",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "trees",
+      "hike"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "3",
+    "title": "Neighborhood Invasive Vine Removal in Hyattsville",
+    "organization": "Casey Trees",
+    "date": "2026-08-01",
+    "startTime": "9:00 AM",
+    "location": {
+      "neighborhood": "Hyattsville",
+      "address": "Heurich Park, 2800 Nicholson Street, Hyattsville, MD",
+      "lat": 38.964,
+      "lng": -76.954
+    },
+    "eventType": "Park Cleanup",
+    "signupUrl": "https://caseytrees.org/event/neighborhood-invasive-vine-removal-in-hyattsville-12/",
+    "description": "Join the Hyattsville Tree Stewards and the City of Hyattsville to remove invasive vines around the neighborhood. Tools and guidance provided.",
+    "endTime": null,
+    "sourceUrl": "https://caseytrees.org/get-involved/volunteer-events/",
+    "lastChecked": "2026-06-30",
+    "registrationStatus": "open",
+    "cost": "free",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": true,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "invasive-species",
+      "trees"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "4",
+    "title": "Invasive Species Removal at Langdon Park",
+    "organization": "Casey Trees",
+    "date": "2026-08-08",
+    "startTime": "9:00 AM",
+    "location": {
+      "neighborhood": "Langdon",
+      "address": "Langdon Park, 2901 20th St NE, Washington, DC",
+      "lat": 38.9285,
+      "lng": -76.9797
+    },
+    "eventType": "Park Cleanup",
+    "signupUrl": "https://caseytrees.org/event/invasive-species-removal-at-langdon-park-9/",
+    "description": "Join CCAN, the Langdon Park Forest Stewards, and Casey Trees to get outside and remove invasive plants from the Langdon forest patch.",
+    "endTime": null,
+    "sourceUrl": "https://caseytrees.org/get-involved/volunteer-events/",
+    "lastChecked": "2026-06-30",
+    "registrationStatus": "open",
+    "cost": "free",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "invasive-species",
+      "trees"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "5",
+    "title": "Invasive Species Removal at Langdon Park",
+    "organization": "Casey Trees",
+    "date": "2026-08-22",
+    "startTime": "9:00 AM",
+    "location": {
+      "neighborhood": "Langdon",
+      "address": "Langdon Park, 2901 20th St NE, Washington, DC",
+      "lat": 38.9285,
+      "lng": -76.9797
+    },
+    "eventType": "Park Cleanup",
+    "signupUrl": "https://caseytrees.org/event/invasive-species-removal-at-langdon-park-10/",
+    "description": "Join CCAN, the Langdon Park Forest Stewards, and Casey Trees to get outside and remove invasive plants from the Langdon forest patch.",
+    "endTime": null,
+    "sourceUrl": "https://caseytrees.org/get-involved/volunteer-events/",
+    "lastChecked": "2026-06-30",
+    "registrationStatus": "open",
+    "cost": "free",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "invasive-species",
+      "trees"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "6",
+    "title": "Invasive Species Removal at Langdon Park",
+    "organization": "Casey Trees",
+    "date": "2026-09-12",
+    "startTime": "9:00 AM",
+    "location": {
+      "neighborhood": "Langdon",
+      "address": "Langdon Park, 2901 20th St NE, Washington, DC",
+      "lat": 38.9285,
+      "lng": -76.9797
+    },
+    "eventType": "Park Cleanup",
+    "signupUrl": "https://caseytrees.org/event/invasive-species-removal-at-langdon-park-11/",
+    "description": "Join CCAN, the Langdon Park Forest Stewards, and Casey Trees to get outside and remove invasive plants from the Langdon forest patch.",
+    "endTime": null,
+    "sourceUrl": "https://caseytrees.org/get-involved/volunteer-events/",
+    "lastChecked": "2026-06-30",
+    "registrationStatus": "open",
+    "cost": "free",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "invasive-species",
+      "trees"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "7",
+    "title": "2026 Urban Tree Summit",
+    "organization": "Casey Trees",
+    "date": "2026-09-23",
+    "startTime": "8:30 AM",
+    "location": {
+      "neighborhood": "Silver Spring",
+      "address": "Silver Spring Civic Building at Veterans Plaza, 1 Veterans Place, Silver Spring, MD",
+      "lat": 38.9967,
+      "lng": -77.0261
+    },
+    "eventType": "Education",
+    "signupUrl": "https://caseytrees.org/event/2026-urban-tree-summit/",
+    "description": "The annual Urban Tree Summit, hosted by Casey Trees and Montgomery Parks, is a conference focused on the field of urban forestry. A full day of sessions and speakers.",
+    "endTime": null,
+    "sourceUrl": "https://caseytrees.org/get-involved/volunteer-events/",
+    "lastChecked": "2026-06-30",
+    "registrationStatus": "open",
+    "cost": "unknown",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "trees",
+      "conference"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "8",
+    "title": "Anacostia River Discovery Series Boat Tour",
+    "organization": "Anacostia Watershed Society",
+    "date": "2026-07-02",
+    "startTime": "6:00 PM",
+    "location": {
+      "neighborhood": "Anacostia Park",
+      "address": "Anacostia Park Boat Ramp, 1500 Anacostia Drive, Washington, DC",
+      "lat": 38.8802,
+      "lng": -76.9686
+    },
+    "eventType": "Education",
+    "signupUrl": "https://www.anacostiaws.org/event/2026-anacostia-river-discovery-series-12/",
+    "description": "Join the Anacostia Watershed Society for a boat tour exploring the ecological and historical changes in the river and surrounding communities, and see river habitat restoration firsthand.",
+    "endTime": null,
+    "sourceUrl": "https://www.anacostiaws.org/events/",
+    "lastChecked": "2026-06-30",
+    "registrationStatus": "open",
+    "cost": "unknown",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "boat-tour",
+      "river"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "9",
+    "title": "Anacostia River Discovery Series Boat Tour",
+    "organization": "Anacostia Watershed Society",
+    "date": "2026-07-09",
+    "startTime": "6:00 PM",
+    "location": {
+      "neighborhood": "Bladensburg",
+      "address": "Bladensburg Waterfront Park, 4601 Annapolis Road, Bladensburg, MD",
+      "lat": 38.9345,
+      "lng": -76.938
+    },
+    "eventType": "Education",
+    "signupUrl": "https://www.anacostiaws.org/event/2026-anacostia-river-discovery-series-13/",
+    "description": "Join the Anacostia Watershed Society for a boat tour exploring the ecological and historical changes in the river and surrounding communities, and see river habitat restoration firsthand.",
+    "endTime": null,
+    "sourceUrl": "https://www.anacostiaws.org/events/",
+    "lastChecked": "2026-06-30",
+    "registrationStatus": "open",
+    "cost": "unknown",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "boat-tour",
+      "river"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "10",
+    "title": "Anacostia River Discovery Series Boat Tour",
+    "organization": "Anacostia Watershed Society",
+    "date": "2026-07-16",
+    "startTime": "6:00 PM",
+    "location": {
+      "neighborhood": "Anacostia Park",
+      "address": "Anacostia Park Boat Ramp, 1500 Anacostia Drive, Washington, DC",
+      "lat": 38.8802,
+      "lng": -76.9686
+    },
+    "eventType": "Education",
+    "signupUrl": "https://www.anacostiaws.org/event/2026-anacostia-river-discovery-series-14/",
+    "description": "Join the Anacostia Watershed Society for a boat tour exploring the ecological and historical changes in the river and surrounding communities, and see river habitat restoration firsthand.",
+    "endTime": null,
+    "sourceUrl": "https://www.anacostiaws.org/events/",
+    "lastChecked": "2026-06-30",
+    "registrationStatus": "open",
+    "cost": "unknown",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "boat-tour",
+      "river"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "11",
+    "title": "Anacostia River Discovery Series Canoe Tour",
+    "organization": "Anacostia Watershed Society",
+    "date": "2026-07-23",
+    "startTime": "6:00 PM",
+    "location": {
+      "neighborhood": "Kenilworth",
+      "address": "Kenilworth Park, 1550 Anacostia Avenue NE, Washington, DC",
+      "lat": 38.9098,
+      "lng": -76.9469
+    },
+    "eventType": "Education",
+    "signupUrl": "https://www.anacostiaws.org/event/2026-anacostia-river-discovery-series-15/",
+    "description": "Join the Anacostia Watershed Society for a canoe tour exploring the ecological and historical changes in the river and surrounding communities, and see river habitat restoration firsthand.",
+    "endTime": null,
+    "sourceUrl": "https://www.anacostiaws.org/events/",
+    "lastChecked": "2026-06-30",
+    "registrationStatus": "open",
+    "cost": "unknown",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "canoe",
+      "river"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "12",
+    "title": "Anacostia River Discovery Series Boat Tour",
+    "organization": "Anacostia Watershed Society",
+    "date": "2026-08-06",
+    "startTime": "6:00 PM",
+    "location": {
+      "neighborhood": "Kingman Island",
+      "address": "Kingman Island Dock, 575 Oklahoma Avenue NE, Washington, DC",
+      "lat": 38.8963,
+      "lng": -76.9694
+    },
+    "eventType": "Education",
+    "signupUrl": "https://www.anacostiaws.org/event/2026-anacostia-river-discovery-series-17/",
+    "description": "Join the Anacostia Watershed Society for a boat tour exploring the ecological and historical changes in the river and surrounding communities, and see river habitat restoration firsthand.",
+    "endTime": "7:00 PM",
+    "sourceUrl": "https://www.anacostiaws.org/events/",
+    "lastChecked": "2026-07-17",
+    "registrationStatus": "open",
+    "cost": "unknown",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "boat-tour",
+      "river"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "13",
+    "title": "Anacostia River Discovery Series Boat Tour",
+    "organization": "Anacostia Watershed Society",
+    "date": "2026-08-13",
+    "startTime": "6:00 PM",
+    "location": {
+      "neighborhood": "Bladensburg",
+      "address": "Bladensburg Waterfront Park, 4601 Annapolis Road, Bladensburg, MD",
+      "lat": 38.9345,
+      "lng": -76.938
+    },
+    "eventType": "Education",
+    "signupUrl": "https://www.anacostiaws.org/event/2026-anacostia-river-discovery-series-18/",
+    "description": "Join the Anacostia Watershed Society for a boat tour exploring the ecological and historical changes in the river and surrounding communities, and see river habitat restoration firsthand.",
+    "endTime": null,
+    "sourceUrl": "https://www.anacostiaws.org/events/",
+    "lastChecked": "2026-06-30",
+    "registrationStatus": "open",
+    "cost": "unknown",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "boat-tour",
+      "river"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "14",
+    "title": "Anacostia River Discovery Series Boat Tour",
+    "organization": "Anacostia Watershed Society",
+    "date": "2026-08-20",
+    "startTime": "6:00 PM",
+    "location": {
+      "neighborhood": "Navy Yard",
+      "address": "Diamond Teague Park, 100 Potomac Avenue SE, Washington, DC",
+      "lat": 38.8721,
+      "lng": -77.0027
+    },
+    "eventType": "Education",
+    "signupUrl": "https://www.anacostiaws.org/event/2026-anacostia-river-discovery-series-16/",
+    "description": "Join the Anacostia Watershed Society for a boat tour exploring the ecological and historical changes in the river and surrounding communities, and see river habitat restoration firsthand.",
+    "endTime": null,
+    "sourceUrl": "https://www.anacostiaws.org/events/",
+    "lastChecked": "2026-06-30",
+    "registrationStatus": "open",
+    "cost": "unknown",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "boat-tour",
+      "river"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "15",
+    "title": "Anacostia River Discovery Series Boat Tour",
+    "organization": "Anacostia Watershed Society",
+    "date": "2026-08-27",
+    "startTime": "6:00 PM",
+    "location": {
+      "neighborhood": "Navy Yard",
+      "address": "Diamond Teague Park, 100 Potomac Avenue SE, Washington, DC",
+      "lat": 38.8721,
+      "lng": -77.0027
+    },
+    "eventType": "Education",
+    "signupUrl": "https://www.anacostiaws.org/event/2026-anacostia-river-discovery-series/2026-08-27/",
+    "description": "Join the Anacostia Watershed Society for a boat tour exploring the ecological and historical changes in the river and surrounding communities, and see river habitat restoration firsthand.",
+    "endTime": null,
+    "sourceUrl": "https://www.anacostiaws.org/events/",
+    "lastChecked": "2026-06-30",
+    "registrationStatus": "open",
+    "cost": "unknown",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "boat-tour",
+      "river"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "16",
+    "title": "Anacostia River Discovery Series Boat Tour",
+    "organization": "Anacostia Watershed Society",
+    "date": "2026-09-03",
+    "startTime": "6:00 PM",
+    "location": {
+      "neighborhood": "Anacostia Park",
+      "address": "Anacostia Park Boat Ramp, 1500 Anacostia Drive, Washington, DC",
+      "lat": 38.8802,
+      "lng": -76.9686
+    },
+    "eventType": "Education",
+    "signupUrl": "https://www.anacostiaws.org/event/2026-anacostia-river-discovery-series-19/",
+    "description": "Join the Anacostia Watershed Society for a boat tour exploring the ecological and historical changes in the river and surrounding communities, and see river habitat restoration firsthand.",
+    "endTime": null,
+    "sourceUrl": "https://www.anacostiaws.org/events/",
+    "lastChecked": "2026-06-30",
+    "registrationStatus": "open",
+    "cost": "unknown",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "boat-tour",
+      "river"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "17",
+    "title": "Anacostia River Discovery Series Canoe Tour",
+    "organization": "Anacostia Watershed Society",
+    "date": "2026-09-10",
+    "startTime": "6:00 PM",
+    "location": {
+      "neighborhood": "Bladensburg",
+      "address": "Bladensburg Waterfront Park, 4601 Annapolis Road, Bladensburg, MD",
+      "lat": 38.9345,
+      "lng": -76.938
+    },
+    "eventType": "Education",
+    "signupUrl": "https://www.anacostiaws.org/event/2026-anacostia-river-discovery-series-20/",
+    "description": "Join the Anacostia Watershed Society for a canoe tour exploring the ecological and historical changes in the river and surrounding communities, and see river habitat restoration firsthand.",
+    "endTime": null,
+    "sourceUrl": "https://www.anacostiaws.org/events/",
+    "lastChecked": "2026-06-30",
+    "registrationStatus": "open",
+    "cost": "unknown",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "canoe",
+      "river"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "18",
+    "title": "Anacostia River Discovery Series Boat Tour",
+    "organization": "Anacostia Watershed Society",
+    "date": "2026-09-12",
+    "startTime": "9:00 AM",
+    "location": {
+      "neighborhood": "Navy Yard",
+      "address": "Diamond Teague Park, 100 Potomac Avenue SE, Washington, DC",
+      "lat": 38.8721,
+      "lng": -77.0027
+    },
+    "eventType": "Education",
+    "signupUrl": "https://www.anacostiaws.org/event/2026-anacostia-river-discovery-series-boat-tour-3/",
+    "description": "Join the Anacostia Watershed Society for a morning boat tour exploring the ecological and historical changes in the river and surrounding communities, and see river habitat restoration firsthand.",
+    "endTime": null,
+    "sourceUrl": "https://www.anacostiaws.org/events/",
+    "lastChecked": "2026-06-30",
+    "registrationStatus": "open",
+    "cost": "unknown",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "boat-tour",
+      "river"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "19",
+    "title": "Anacostia River Bioblitz",
+    "organization": "Anacostia Watershed Society",
+    "date": "2026-09-12",
+    "startTime": "12:00 PM",
+    "location": {
+      "neighborhood": "College Park",
+      "address": "Lake Artemesia, 8200 55th Avenue, College Park, MD",
+      "lat": 38.986,
+      "lng": -76.925
+    },
+    "eventType": "Education",
+    "signupUrl": "https://www.anacostiaws.org/event/anacostia-river-bioblitz/",
+    "description": "A bioblitz is a census of the natural world, where communities document the species they see over a short period. Join AWS and partners to document the watershed's biodiversity.",
+    "endTime": null,
+    "sourceUrl": "https://www.anacostiaws.org/events/",
+    "lastChecked": "2026-06-30",
+    "registrationStatus": "open",
+    "cost": "unknown",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "river",
+      "bioblitz"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "20",
+    "title": "Anacostia River Discovery Series Boat Tour",
+    "organization": "Anacostia Watershed Society",
+    "date": "2026-09-17",
+    "startTime": "6:00 PM",
+    "location": {
+      "neighborhood": "Navy Yard",
+      "address": "Diamond Teague Park, 100 Potomac Avenue SE, Washington, DC",
+      "lat": 38.8721,
+      "lng": -77.0027
+    },
+    "eventType": "Education",
+    "signupUrl": "https://www.anacostiaws.org/event/2026-anacostia-river-discovery-series/2026-09-17/",
+    "description": "Join the Anacostia Watershed Society for a boat tour exploring the ecological and historical changes in the river and surrounding communities, and see river habitat restoration firsthand.",
+    "endTime": null,
+    "sourceUrl": "https://www.anacostiaws.org/events/",
+    "lastChecked": "2026-06-30",
+    "registrationStatus": "open",
+    "cost": "unknown",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "boat-tour",
+      "river"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "21",
+    "title": "Anacostia River Discovery Series Boat Tour",
+    "organization": "Anacostia Watershed Society",
+    "date": "2026-09-24",
+    "startTime": "5:30 PM",
+    "location": {
+      "neighborhood": "Kingman Island",
+      "address": "Kingman Island Dock, 575 Oklahoma Avenue NE, Washington, DC",
+      "lat": 38.8963,
+      "lng": -76.9694
+    },
+    "eventType": "Education",
+    "signupUrl": "https://www.anacostiaws.org/event/2026-anacostia-river-discovery-series-21/",
+    "description": "Join the Anacostia Watershed Society for a boat tour exploring the ecological and historical changes in the river and surrounding communities, and see river habitat restoration firsthand.",
+    "endTime": "6:30 PM",
+    "sourceUrl": "https://www.anacostiaws.org/events/",
+    "lastChecked": "2026-07-17",
+    "registrationStatus": "open",
+    "cost": "unknown",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "boat-tour",
+      "river"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "22",
+    "title": "Anacostia River Discovery Series Boat Tour",
+    "organization": "Anacostia Watershed Society",
+    "date": "2026-11-07",
+    "startTime": "10:00 AM",
+    "location": {
+      "neighborhood": "Anacostia Park",
+      "address": "Anacostia Park Boat Ramp, 1500 Anacostia Drive, Washington, DC",
+      "lat": 38.8802,
+      "lng": -76.9686
+    },
+    "eventType": "Education",
+    "signupUrl": "https://www.anacostiaws.org/event/2026-anacostia-river-discovery-series-boat-tour-4/",
+    "description": "Join the Anacostia Watershed Society for a morning boat tour exploring the ecological and historical changes in the river and surrounding communities, and see river habitat restoration firsthand.",
+    "endTime": null,
+    "sourceUrl": "https://www.anacostiaws.org/events/",
+    "lastChecked": "2026-06-30",
+    "registrationStatus": "open",
+    "cost": "unknown",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "boat-tour",
+      "river"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "23",
+    "title": "Scoop & Paddle at Thompson Boat Center",
+    "organization": "Potomac Conservancy",
+    "date": "2026-07-25",
+    "startTime": "9:00 AM",
+    "location": {
+      "neighborhood": "Georgetown",
+      "address": "Thompson Boat Center, 2900 Virginia Ave NW, Washington, DC",
+      "lat": 38.902,
+      "lng": -77.0587
+    },
+    "eventType": "River/Stream Cleanup",
+    "signupUrl": "https://potomac.org/pc-events/2026/7/25/scoop-and-paddle-at-thompson-boat-house-dc",
+    "description": "Join Potomac Conservancy for a Scoop & Paddle cleanup on the Potomac River \u2014 get out on the water and collect trash to help improve water quality. Equipment provided; registration required.",
+    "endTime": null,
+    "sourceUrl": "https://potomac.org/events",
+    "lastChecked": "2026-07-01",
+    "registrationStatus": "open",
+    "cost": "free",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "boat-tour",
+      "paddle",
+      "river",
+      "cleanup"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "24",
+    "title": "Scoop & Paddle at Bladensburg Waterfront Park",
+    "organization": "Potomac Conservancy",
+    "date": "2026-08-01",
+    "startTime": "9:00 AM",
+    "location": {
+      "neighborhood": "Bladensburg",
+      "address": "Bladensburg Waterfront Park, 4601 Annapolis Road, Bladensburg, MD",
+      "lat": 38.9345,
+      "lng": -76.938
+    },
+    "eventType": "River/Stream Cleanup",
+    "signupUrl": "https://potomac.org/events",
+    "description": "Join Potomac Conservancy for a Scoop & Paddle cleanup on the water at Bladensburg Waterfront Park. Collect trash from the shoreline and river to protect water quality. Equipment provided; registration required.",
+    "endTime": null,
+    "sourceUrl": "https://potomac.org/events",
+    "lastChecked": "2026-07-01",
+    "registrationStatus": "open",
+    "cost": "free",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "paddle",
+      "river",
+      "cleanup"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "25",
+    "title": "Potomac Paddle-Off at Thompson Boat Center",
+    "organization": "Potomac Conservancy",
+    "date": "2026-09-19",
+    "startTime": "9:00 AM",
+    "location": {
+      "neighborhood": "Georgetown",
+      "address": "Thompson Boat Center, 2900 Virginia Ave NW, Washington, DC",
+      "lat": 38.902,
+      "lng": -77.0587
+    },
+    "eventType": "River/Stream Cleanup",
+    "signupUrl": "https://potomac.org/pc-events/2026/9/19/potomac-paddle-off-at-thompson-boat-center",
+    "description": "Potomac Conservancy's Paddle-Off at Thompson Boat Center \u2014 a community celebration on the Potomac combining paddling and a river cleanup. Registration required.",
+    "endTime": null,
+    "sourceUrl": "https://potomac.org/events",
+    "lastChecked": "2026-07-01",
+    "registrationStatus": "open",
+    "cost": "free",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "boat-tour",
+      "paddle",
+      "river",
+      "cleanup"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "26",
+    "title": "Anacostia River Explorers Boat Tour",
+    "organization": "Anacostia Riverkeeper",
+    "date": "2026-07-07",
+    "startTime": "6:00 PM",
+    "endTime": "7:00 PM",
+    "location": {
+      "neighborhood": "Kingman Island",
+      "address": "Kingman Island, 575 Oklahoma Avenue NE, Washington, DC",
+      "lat": 38.8963,
+      "lng": -76.9694
+    },
+    "eventType": "Education",
+    "signupUrl": "https://www.kingmanisland.com/calendar/ark-boat-tour-july-2026",
+    "description": "Learn about the Anacostia River's history, wildlife, environmental threats it faces, and solutions helping it realize its full potential in this guided boat tour led by the Anacostia Riverkeeper. Departs from the Kingman Island boat dock.",
+    "sourceUrl": "https://www.kingmanisland.com/calendar",
+    "lastChecked": "2026-07-17",
+    "registrationStatus": "open",
+    "cost": "free",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "boat-tour",
+      "river"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "27",
+    "title": "Kids with Bins: Youth-Led Bird Walk",
+    "organization": "DC Bird Alliance",
+    "date": "2026-07-11",
+    "startTime": "9:00 AM",
+    "endTime": "10:00 AM",
+    "location": {
+      "neighborhood": "Kingman Island",
+      "address": "Kingman Island, 575 Oklahoma Avenue NE, Washington, DC",
+      "lat": 38.8963,
+      "lng": -76.9694
+    },
+    "eventType": "Education",
+    "signupUrl": "https://www.kingmanisland.com/calendar/kids-with-bins-youth-led-bird-walk",
+    "description": "Join DC Bird Alliance Junior Ambassador Ali for a special bird walk through Kingman and Heritage Islands designed with young people in mind.",
+    "sourceUrl": "https://www.kingmanisland.com/calendar",
+    "lastChecked": "2026-07-17",
+    "registrationStatus": "open",
+    "cost": "unknown",
+    "kidFriendly": true,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "birds",
+      "walk"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "29",
+    "title": "FrogWatch Field Monitoring Session",
+    "organization": "DC Department of Energy & Environment",
+    "date": "2026-07-21",
+    "startTime": "8:30 PM",
+    "endTime": "10:30 PM",
+    "location": {
+      "neighborhood": "Kingman Island",
+      "address": "Kingman Island, 575 Oklahoma Avenue NE, Washington, DC",
+      "lat": 38.8963,
+      "lng": -76.9694
+    },
+    "eventType": "Education",
+    "signupUrl": "https://www.kingmanisland.com/calendar/frogwatch-july-2026",
+    "description": "Join DOEE, Living Classrooms, and your neighbors for FrogWatch, a community science program monitoring frog populations on Kingman and Heritage Islands.",
+    "sourceUrl": "https://www.kingmanisland.com/calendar",
+    "lastChecked": "2026-07-17",
+    "registrationStatus": "open",
+    "cost": "unknown",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "community-science",
+      "wildlife"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "30",
+    "title": "First Saturdays Invasive Plant Management Workday",
+    "organization": "DC Department of Energy & Environment",
+    "date": "2026-08-01",
+    "startTime": "10:00 AM",
+    "endTime": "12:30 PM",
+    "location": {
+      "neighborhood": "Kingman Island",
+      "address": "Kingman Island, 575 Oklahoma Avenue NE, Washington, DC",
+      "lat": 38.8963,
+      "lng": -76.9694
+    },
+    "eventType": "Park Cleanup",
+    "signupUrl": "https://www.kingmanisland.com/calendar/first-saturdays-may-2026-lrx94-sfabn",
+    "description": "Join DOEE staff and your neighbors the first Saturday of each month to remove invasive plants on and near Kingman and Heritage Islands.",
+    "sourceUrl": "https://www.kingmanisland.com/calendar",
+    "lastChecked": "2026-07-17",
+    "registrationStatus": "open",
+    "cost": "free",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "invasive-species",
+      "cleanup"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "31",
+    "title": "Anacostia River Explorers Boat Tour",
+    "organization": "Anacostia Riverkeeper",
+    "date": "2026-08-18",
+    "startTime": "6:00 PM",
+    "endTime": "7:00 PM",
+    "location": {
+      "neighborhood": "Kingman Island",
+      "address": "Kingman Island, 575 Oklahoma Avenue NE, Washington, DC",
+      "lat": 38.8963,
+      "lng": -76.9694
+    },
+    "eventType": "Education",
+    "signupUrl": "https://www.kingmanisland.com/calendar/ark-boat-tour-august-2026",
+    "description": "Learn about the Anacostia River's history, wildlife, environmental threats it faces, and solutions helping it realize its full potential in this guided boat tour led by the Anacostia Riverkeeper. Departs from the Kingman Island boat dock.",
+    "sourceUrl": "https://www.kingmanisland.com/calendar",
+    "lastChecked": "2026-07-17",
+    "registrationStatus": "open",
+    "cost": "free",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "boat-tour",
+      "river"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "32",
+    "title": "FrogWatch Field Monitoring Session",
+    "organization": "DC Department of Energy & Environment",
+    "date": "2026-08-20",
+    "startTime": "8:00 PM",
+    "endTime": "10:00 PM",
+    "location": {
+      "neighborhood": "Kingman Island",
+      "address": "Kingman Island, 575 Oklahoma Avenue NE, Washington, DC",
+      "lat": 38.8963,
+      "lng": -76.9694
+    },
+    "eventType": "Education",
+    "signupUrl": "https://www.kingmanisland.com/calendar/frogwatch-august-2026",
+    "description": "Join DOEE, Living Classrooms, and your neighbors for FrogWatch, a community science program monitoring frog populations on Kingman and Heritage Islands.",
+    "sourceUrl": "https://www.kingmanisland.com/calendar",
+    "lastChecked": "2026-07-17",
+    "registrationStatus": "open",
+    "cost": "unknown",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "community-science",
+      "wildlife"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "33",
+    "title": "First Saturdays Invasive Plant Management Workday",
+    "organization": "DC Department of Energy & Environment",
+    "date": "2026-10-03",
+    "startTime": "10:00 AM",
+    "endTime": "12:30 PM",
+    "location": {
+      "neighborhood": "Kingman Island",
+      "address": "Kingman Island, 575 Oklahoma Avenue NE, Washington, DC",
+      "lat": 38.8963,
+      "lng": -76.9694
+    },
+    "eventType": "Park Cleanup",
+    "signupUrl": "https://www.kingmanisland.com/calendar/first-saturdays-may-2026-lrx94-sfabn-j8ef5",
+    "description": "Join DOEE staff and your neighbors the first Saturday of each month to remove invasive plants on and near Kingman and Heritage Islands.",
+    "sourceUrl": "https://www.kingmanisland.com/calendar",
+    "lastChecked": "2026-07-17",
+    "registrationStatus": "open",
+    "cost": "free",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "invasive-species",
+      "cleanup"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "34",
+    "title": "6th Annual Kingman Island Friends and Family Day",
+    "organization": "DC Department of Energy & Environment",
+    "date": "2026-10-17",
+    "startTime": "11:00 AM",
+    "endTime": "3:00 PM",
+    "location": {
+      "neighborhood": "Kingman Island",
+      "address": "Kingman Island, 575 Oklahoma Avenue NE, Washington, DC",
+      "lat": 38.8963,
+      "lng": -76.9694
+    },
+    "eventType": "Other",
+    "signupUrl": "https://www.kingmanisland.com/calendar/6th-annual-kingman-island-friends-and-family-day",
+    "description": "The 6th annual Kingman Island Friends and Family Day \u2014 a community celebration on the islands. More details to be announced on the Kingman Island site.",
+    "sourceUrl": "https://www.kingmanisland.com/calendar",
+    "lastChecked": "2026-07-17",
+    "registrationStatus": "open",
+    "cost": "unknown",
+    "kidFriendly": true,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "festival",
+      "family"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "35",
+    "title": "First Saturdays Invasive Plant Management Workday",
+    "organization": "DC Department of Energy & Environment",
+    "date": "2026-11-07",
+    "startTime": "10:00 AM",
+    "endTime": "12:30 PM",
+    "location": {
+      "neighborhood": "Kingman Island",
+      "address": "Kingman Island, 575 Oklahoma Avenue NE, Washington, DC",
+      "lat": 38.8963,
+      "lng": -76.9694
+    },
+    "eventType": "Park Cleanup",
+    "signupUrl": "https://www.kingmanisland.com/calendar/first-saturdays-may-2026-lrx94-sfabn-j8ef5-kns96",
+    "description": "Join DOEE staff and your neighbors the first Saturday of each month to remove invasive plants on and near Kingman and Heritage Islands.",
+    "sourceUrl": "https://www.kingmanisland.com/calendar",
+    "lastChecked": "2026-07-17",
+    "registrationStatus": "open",
+    "cost": "free",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "invasive-species",
+      "cleanup"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "36",
+    "title": "First Saturdays Invasive Plant Management Workday",
+    "organization": "DC Department of Energy & Environment",
+    "date": "2026-12-05",
+    "startTime": "10:00 AM",
+    "endTime": "12:30 PM",
+    "location": {
+      "neighborhood": "Kingman Island",
+      "address": "Kingman Island, 575 Oklahoma Avenue NE, Washington, DC",
+      "lat": 38.8963,
+      "lng": -76.9694
+    },
+    "eventType": "Park Cleanup",
+    "signupUrl": "https://www.kingmanisland.com/calendar/first-saturdays-may-2026-lrx94-sfabn-j8ef5-kns96-scj5p",
+    "description": "Join DOEE staff and your neighbors the first Saturday of each month to remove invasive plants on and near Kingman and Heritage Islands.",
+    "sourceUrl": "https://www.kingmanisland.com/calendar",
+    "lastChecked": "2026-07-17",
+    "registrationStatus": "open",
+    "cost": "free",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "invasive-species",
+      "cleanup"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "37",
+    "title": "Kids with Bins: Youth-Led Bird Walk",
+    "organization": "DC Bird Alliance",
+    "date": "2026-08-01",
+    "startTime": "9:00 AM",
+    "endTime": "10:00 AM",
+    "location": {
+      "neighborhood": "Kingman Island",
+      "address": "Kingman Island, 575 Oklahoma Avenue NE, Washington, DC",
+      "lat": 38.8963,
+      "lng": -76.9694
+    },
+    "eventType": "Education",
+    "signupUrl": "https://www.kingmanisland.com/calendar/kids-with-bins-youth-led-bird-walk-w28en",
+    "description": "Join DC Bird Alliance Junior Ambassador Ali for a special bird walk through Kingman and Heritage Islands designed with young people in mind.",
+    "sourceUrl": "https://www.kingmanisland.com/calendar",
+    "lastChecked": "2026-07-17",
+    "registrationStatus": "open",
+    "cost": "unknown",
+    "kidFriendly": true,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "birds",
+      "walk"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "38",
+    "title": "Kingman & Heritage Islands Virtual Charrette: Access and Safety",
+    "organization": "DC Department of Energy & Environment",
+    "date": "2026-08-03",
+    "startTime": "6:00 PM",
+    "endTime": "7:00 PM",
+    "location": {
+      "neighborhood": "Virtual",
+      "address": "Online \u2014 join link on the event page"
+    },
+    "eventType": "Advocacy",
+    "signupUrl": "https://www.kingmanisland.com/calendar/kingman-heritage-islands-virtual-charrette-on-access-and-safety",
+    "description": "A virtual community input session on Access and Safety for the Kingman & Heritage Islands Trails and Amenities Design Project \u2014 share how you experience the Islands and help inform future planning.",
+    "sourceUrl": "https://www.kingmanisland.com/calendar",
+    "lastChecked": "2026-07-17",
+    "registrationStatus": "open",
+    "cost": "unknown",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "virtual",
+    "tags": [
+      "planning",
+      "community-input"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "39",
+    "title": "Kingman & Heritage Islands In-Person Charrette: Access and Safety",
+    "organization": "DC Department of Energy & Environment",
+    "date": "2026-08-05",
+    "startTime": "10:00 AM",
+    "endTime": "12:00 PM",
+    "location": {
+      "neighborhood": "Benning",
+      "address": "Dorothy I. Height/Benning Neighborhood Library, 3935 Benning Road NE, Washington, DC",
+      "lat": 38.8902,
+      "lng": -76.9478
+    },
+    "eventType": "Advocacy",
+    "signupUrl": "https://www.kingmanisland.com/calendar/kingman-heritage-islands-in-person-charrette-on-access-and-safety",
+    "description": "An in-person charrette at the Dorothy I. Height/Benning Neighborhood Library focused on Access and Safety \u2014 learn about the Islands' Trails and Amenities Design Project and connect directly with the project team.",
+    "sourceUrl": "https://www.kingmanisland.com/calendar",
+    "lastChecked": "2026-07-17",
+    "registrationStatus": "open",
+    "cost": "unknown",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "planning",
+      "community-input"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "40",
+    "title": "Kingman & Heritage Islands Site Walk: Access and Safety",
+    "organization": "DC Department of Energy & Environment",
+    "date": "2026-08-08",
+    "startTime": "10:00 AM",
+    "endTime": "12:00 PM",
+    "location": {
+      "neighborhood": "Kingman Island",
+      "address": "Kingman Island, 575 Oklahoma Avenue NE, Washington, DC",
+      "lat": 38.8963,
+      "lng": -76.9694
+    },
+    "eventType": "Education",
+    "signupUrl": "https://www.kingmanisland.com/calendar/kingman-heritage-islands-site-walk-access-and-safety",
+    "description": "A guided site walk with DOEE and the design project team, with self-guided stations to better understand existing conditions on the Islands and the community feedback shaping the plan.",
+    "sourceUrl": "https://www.kingmanisland.com/calendar",
+    "lastChecked": "2026-07-17",
+    "registrationStatus": "open",
+    "cost": "unknown",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "walk",
+      "planning"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "41",
+    "title": "Kingman & Heritage Islands Virtual Charrette: Education and Ecology",
+    "organization": "DC Department of Energy & Environment",
+    "date": "2026-08-10",
+    "startTime": "6:00 PM",
+    "endTime": "7:00 PM",
+    "location": {
+      "neighborhood": "Virtual",
+      "address": "Online \u2014 join link on the event page"
+    },
+    "eventType": "Advocacy",
+    "signupUrl": "https://www.kingmanisland.com/calendar/kingman-heritage-islands-virtual-charrette-on-education-and-ecology",
+    "description": "A virtual community input session on Education and Ecology \u2014 the Islands' natural resources, environmental stewardship, and how future planning can strengthen educational experiences.",
+    "sourceUrl": "https://www.kingmanisland.com/calendar",
+    "lastChecked": "2026-07-17",
+    "registrationStatus": "open",
+    "cost": "unknown",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "virtual",
+    "tags": [
+      "planning",
+      "community-input"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "42",
+    "title": "Kingman & Heritage Islands Site Walk: Education and Ecology",
+    "organization": "DC Department of Energy & Environment",
+    "date": "2026-08-12",
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM",
+    "location": {
+      "neighborhood": "Kingman Island",
+      "address": "Kingman Island, 575 Oklahoma Avenue NE, Washington, DC",
+      "lat": 38.8963,
+      "lng": -76.9694
+    },
+    "eventType": "Education",
+    "signupUrl": "https://www.kingmanisland.com/calendar/kingman-heritage-islands-site-walk-education-and-ecology",
+    "description": "A guided site walk with DOEE and the design project team focused on the Islands' ecology and educational opportunities, informing the Trails and Amenities Design Project.",
+    "sourceUrl": "https://www.kingmanisland.com/calendar",
+    "lastChecked": "2026-07-17",
+    "registrationStatus": "open",
+    "cost": "unknown",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "walk",
+      "planning"
+    ],
+    "organizerVerified": false
+  },
+  {
+    "id": "43",
+    "title": "Kingman & Heritage Islands In-Person Charrette: Education and Ecology",
+    "organization": "DC Department of Energy & Environment",
+    "date": "2026-08-12",
+    "startTime": "1:00 PM",
+    "endTime": "3:00 PM",
+    "location": {
+      "neighborhood": "Location TBA",
+      "address": "Location to be announced \u2014 details on the event page"
+    },
+    "eventType": "Advocacy",
+    "signupUrl": "https://www.kingmanisland.com/calendar/kingman-heritage-islands-in-person-charrette-on-education-and-ecology",
+    "description": "An in-person charrette focused on Education and Ecology for the Islands' Trails and Amenities Design Project. Location to be announced on the event page.",
+    "sourceUrl": "https://www.kingmanisland.com/calendar",
+    "lastChecked": "2026-07-17",
+    "registrationStatus": "open",
+    "cost": "unknown",
+    "kidFriendly": null,
+    "metroAccessible": null,
+    "beginnerFriendly": null,
+    "virtualOrInPerson": "in-person",
+    "tags": [
+      "planning",
+      "community-input"
+    ],
+    "organizerVerified": false
+  }
+]

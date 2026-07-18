@@ -1,0 +1,662 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DC Green Events//Event Feed//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:DC Green Events
+X-WR-CALDESC:Environmental volunteer events across the Washington DC area
+BEGIN:VEVENT
+UID:dcgreen-1@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260711T090000
+DTEND:20260711T110000
+SUMMARY:Neighborhood Invasive Vine Removal in Hyattsville
+DESCRIPTION:Join the Hyattsville Tree Stewards and the City of Hyattsville
+  to remove invasive vines around the neighborhood. Tools and guidance pro
+ vided.\n\nOrganized by Casey Trees.\nSign up: https://caseytrees.org/even
+ t/neighborhood-invasive-vine-removal-in-hyattsville-11/
+LOCATION:University Hills — University Hills Park\, 3400 Stanford Street\,
+  Hyattsville\, MD
+URL:https://caseytrees.org/event/neighborhood-invasive-vine-removal-in-hya
+ ttsville-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-2@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260725T100000
+DTEND:20260725T120000
+SUMMARY:Nature Every Month: Urban Forest Hike with Soul Trak
+DESCRIPTION:A Soul Trak Outdoors and Casey Trees partnership. Join a guide
+ d urban forest hike exploring the trees and nature around the Anacostia C
+ ommunity Museum.\n\nOrganized by Casey Trees.\nSign up: https://caseytree
+ s.org/event/nature-every-month-urban-forest-hike-with-soul-trak/
+LOCATION:Anacostia — Anacostia Community Museum\, 1901 Fort Place SE\, Was
+ hington\, DC
+URL:https://caseytrees.org/event/nature-every-month-urban-forest-hike-with
+ -soul-trak/
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-3@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260801T090000
+DTEND:20260801T110000
+SUMMARY:Neighborhood Invasive Vine Removal in Hyattsville
+DESCRIPTION:Join the Hyattsville Tree Stewards and the City of Hyattsville
+  to remove invasive vines around the neighborhood. Tools and guidance pro
+ vided.\n\nOrganized by Casey Trees.\nSign up: https://caseytrees.org/even
+ t/neighborhood-invasive-vine-removal-in-hyattsville-12/
+LOCATION:Hyattsville — Heurich Park\, 2800 Nicholson Street\, Hyattsville\
+ , MD
+URL:https://caseytrees.org/event/neighborhood-invasive-vine-removal-in-hya
+ ttsville-12/
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-4@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260808T090000
+DTEND:20260808T110000
+SUMMARY:Invasive Species Removal at Langdon Park
+DESCRIPTION:Join CCAN\, the Langdon Park Forest Stewards\, and Casey Trees
+  to get outside and remove invasive plants from the Langdon forest patch.
+ \n\nOrganized by Casey Trees.\nSign up: https://caseytrees.org/event/inva
+ sive-species-removal-at-langdon-park-9/
+LOCATION:Langdon — Langdon Park\, 2901 20th St NE\, Washington\, DC
+URL:https://caseytrees.org/event/invasive-species-removal-at-langdon-park-
+ 9/
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-5@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260822T090000
+DTEND:20260822T110000
+SUMMARY:Invasive Species Removal at Langdon Park
+DESCRIPTION:Join CCAN\, the Langdon Park Forest Stewards\, and Casey Trees
+  to get outside and remove invasive plants from the Langdon forest patch.
+ \n\nOrganized by Casey Trees.\nSign up: https://caseytrees.org/event/inva
+ sive-species-removal-at-langdon-park-10/
+LOCATION:Langdon — Langdon Park\, 2901 20th St NE\, Washington\, DC
+URL:https://caseytrees.org/event/invasive-species-removal-at-langdon-park-
+ 10/
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-6@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260912T090000
+DTEND:20260912T110000
+SUMMARY:Invasive Species Removal at Langdon Park
+DESCRIPTION:Join CCAN\, the Langdon Park Forest Stewards\, and Casey Trees
+  to get outside and remove invasive plants from the Langdon forest patch.
+ \n\nOrganized by Casey Trees.\nSign up: https://caseytrees.org/event/inva
+ sive-species-removal-at-langdon-park-11/
+LOCATION:Langdon — Langdon Park\, 2901 20th St NE\, Washington\, DC
+URL:https://caseytrees.org/event/invasive-species-removal-at-langdon-park-
+ 11/
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-7@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260923T083000
+DTEND:20260923T103000
+SUMMARY:2026 Urban Tree Summit
+DESCRIPTION:The annual Urban Tree Summit\, hosted by Casey Trees and Montg
+ omery Parks\, is a conference focused on the field of urban forestry. A f
+ ull day of sessions and speakers.\n\nOrganized by Casey Trees.\nSign up: 
+ https://caseytrees.org/event/2026-urban-tree-summit/
+LOCATION:Silver Spring — Silver Spring Civic Building at Veterans Plaza\, 
+ 1 Veterans Place\, Silver Spring\, MD
+URL:https://caseytrees.org/event/2026-urban-tree-summit/
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-8@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260702T180000
+DTEND:20260702T200000
+SUMMARY:Anacostia River Discovery Series Boat Tour
+DESCRIPTION:Join the Anacostia Watershed Society for a boat tour exploring
+  the ecological and historical changes in the river and surrounding commu
+ nities\, and see river habitat restoration firsthand.\n\nOrganized by Ana
+ costia Watershed Society.\nSign up: https://www.anacostiaws.org/event/202
+ 6-anacostia-river-discovery-series-12/
+LOCATION:Anacostia Park — Anacostia Park Boat Ramp\, 1500 Anacostia Drive\
+ , Washington\, DC
+URL:https://www.anacostiaws.org/event/2026-anacostia-river-discovery-serie
+ s-12/
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-9@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260709T180000
+DTEND:20260709T200000
+SUMMARY:Anacostia River Discovery Series Boat Tour
+DESCRIPTION:Join the Anacostia Watershed Society for a boat tour exploring
+  the ecological and historical changes in the river and surrounding commu
+ nities\, and see river habitat restoration firsthand.\n\nOrganized by Ana
+ costia Watershed Society.\nSign up: https://www.anacostiaws.org/event/202
+ 6-anacostia-river-discovery-series-13/
+LOCATION:Bladensburg — Bladensburg Waterfront Park\, 4601 Annapolis Road\,
+  Bladensburg\, MD
+URL:https://www.anacostiaws.org/event/2026-anacostia-river-discovery-serie
+ s-13/
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-10@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260716T180000
+DTEND:20260716T200000
+SUMMARY:Anacostia River Discovery Series Boat Tour
+DESCRIPTION:Join the Anacostia Watershed Society for a boat tour exploring
+  the ecological and historical changes in the river and surrounding commu
+ nities\, and see river habitat restoration firsthand.\n\nOrganized by Ana
+ costia Watershed Society.\nSign up: https://www.anacostiaws.org/event/202
+ 6-anacostia-river-discovery-series-14/
+LOCATION:Anacostia Park — Anacostia Park Boat Ramp\, 1500 Anacostia Drive\
+ , Washington\, DC
+URL:https://www.anacostiaws.org/event/2026-anacostia-river-discovery-serie
+ s-14/
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-11@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260723T180000
+DTEND:20260723T200000
+SUMMARY:Anacostia River Discovery Series Canoe Tour
+DESCRIPTION:Join the Anacostia Watershed Society for a canoe tour explorin
+ g the ecological and historical changes in the river and surrounding comm
+ unities\, and see river habitat restoration firsthand.\n\nOrganized by An
+ acostia Watershed Society.\nSign up: https://www.anacostiaws.org/event/20
+ 26-anacostia-river-discovery-series-15/
+LOCATION:Kenilworth — Kenilworth Park\, 1550 Anacostia Avenue NE\, Washing
+ ton\, DC
+URL:https://www.anacostiaws.org/event/2026-anacostia-river-discovery-serie
+ s-15/
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-12@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260806T180000
+DTEND:20260806T190000
+SUMMARY:Anacostia River Discovery Series Boat Tour
+DESCRIPTION:Join the Anacostia Watershed Society for a boat tour exploring
+  the ecological and historical changes in the river and surrounding commu
+ nities\, and see river habitat restoration firsthand.\n\nOrganized by Ana
+ costia Watershed Society.\nSign up: https://www.anacostiaws.org/event/202
+ 6-anacostia-river-discovery-series-17/
+LOCATION:Kingman Island — Kingman Island Dock\, 575 Oklahoma Avenue NE\, W
+ ashington\, DC
+URL:https://www.anacostiaws.org/event/2026-anacostia-river-discovery-serie
+ s-17/
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-13@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260813T180000
+DTEND:20260813T200000
+SUMMARY:Anacostia River Discovery Series Boat Tour
+DESCRIPTION:Join the Anacostia Watershed Society for a boat tour exploring
+  the ecological and historical changes in the river and surrounding commu
+ nities\, and see river habitat restoration firsthand.\n\nOrganized by Ana
+ costia Watershed Society.\nSign up: https://www.anacostiaws.org/event/202
+ 6-anacostia-river-discovery-series-18/
+LOCATION:Bladensburg — Bladensburg Waterfront Park\, 4601 Annapolis Road\,
+  Bladensburg\, MD
+URL:https://www.anacostiaws.org/event/2026-anacostia-river-discovery-serie
+ s-18/
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-14@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260820T180000
+DTEND:20260820T200000
+SUMMARY:Anacostia River Discovery Series Boat Tour
+DESCRIPTION:Join the Anacostia Watershed Society for a boat tour exploring
+  the ecological and historical changes in the river and surrounding commu
+ nities\, and see river habitat restoration firsthand.\n\nOrganized by Ana
+ costia Watershed Society.\nSign up: https://www.anacostiaws.org/event/202
+ 6-anacostia-river-discovery-series-16/
+LOCATION:Navy Yard — Diamond Teague Park\, 100 Potomac Avenue SE\, Washing
+ ton\, DC
+URL:https://www.anacostiaws.org/event/2026-anacostia-river-discovery-serie
+ s-16/
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-15@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260827T180000
+DTEND:20260827T200000
+SUMMARY:Anacostia River Discovery Series Boat Tour
+DESCRIPTION:Join the Anacostia Watershed Society for a boat tour exploring
+  the ecological and historical changes in the river and surrounding commu
+ nities\, and see river habitat restoration firsthand.\n\nOrganized by Ana
+ costia Watershed Society.\nSign up: https://www.anacostiaws.org/event/202
+ 6-anacostia-river-discovery-series/2026-08-27/
+LOCATION:Navy Yard — Diamond Teague Park\, 100 Potomac Avenue SE\, Washing
+ ton\, DC
+URL:https://www.anacostiaws.org/event/2026-anacostia-river-discovery-serie
+ s/2026-08-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-16@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260903T180000
+DTEND:20260903T200000
+SUMMARY:Anacostia River Discovery Series Boat Tour
+DESCRIPTION:Join the Anacostia Watershed Society for a boat tour exploring
+  the ecological and historical changes in the river and surrounding commu
+ nities\, and see river habitat restoration firsthand.\n\nOrganized by Ana
+ costia Watershed Society.\nSign up: https://www.anacostiaws.org/event/202
+ 6-anacostia-river-discovery-series-19/
+LOCATION:Anacostia Park — Anacostia Park Boat Ramp\, 1500 Anacostia Drive\
+ , Washington\, DC
+URL:https://www.anacostiaws.org/event/2026-anacostia-river-discovery-serie
+ s-19/
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-17@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260910T180000
+DTEND:20260910T200000
+SUMMARY:Anacostia River Discovery Series Canoe Tour
+DESCRIPTION:Join the Anacostia Watershed Society for a canoe tour explorin
+ g the ecological and historical changes in the river and surrounding comm
+ unities\, and see river habitat restoration firsthand.\n\nOrganized by An
+ acostia Watershed Society.\nSign up: https://www.anacostiaws.org/event/20
+ 26-anacostia-river-discovery-series-20/
+LOCATION:Bladensburg — Bladensburg Waterfront Park\, 4601 Annapolis Road\,
+  Bladensburg\, MD
+URL:https://www.anacostiaws.org/event/2026-anacostia-river-discovery-serie
+ s-20/
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-18@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260912T090000
+DTEND:20260912T110000
+SUMMARY:Anacostia River Discovery Series Boat Tour
+DESCRIPTION:Join the Anacostia Watershed Society for a morning boat tour e
+ xploring the ecological and historical changes in the river and surroundi
+ ng communities\, and see river habitat restoration firsthand.\n\nOrganize
+ d by Anacostia Watershed Society.\nSign up: https://www.anacostiaws.org/e
+ vent/2026-anacostia-river-discovery-series-boat-tour-3/
+LOCATION:Navy Yard — Diamond Teague Park\, 100 Potomac Avenue SE\, Washing
+ ton\, DC
+URL:https://www.anacostiaws.org/event/2026-anacostia-river-discovery-serie
+ s-boat-tour-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-19@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260912T120000
+DTEND:20260912T140000
+SUMMARY:Anacostia River Bioblitz
+DESCRIPTION:A bioblitz is a census of the natural world\, where communitie
+ s document the species they see over a short period. Join AWS and partner
+ s to document the watershed's biodiversity.\n\nOrganized by Anacostia Wat
+ ershed Society.\nSign up: https://www.anacostiaws.org/event/anacostia-riv
+ er-bioblitz/
+LOCATION:College Park — Lake Artemesia\, 8200 55th Avenue\, College Park\,
+  MD
+URL:https://www.anacostiaws.org/event/anacostia-river-bioblitz/
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-20@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260917T180000
+DTEND:20260917T200000
+SUMMARY:Anacostia River Discovery Series Boat Tour
+DESCRIPTION:Join the Anacostia Watershed Society for a boat tour exploring
+  the ecological and historical changes in the river and surrounding commu
+ nities\, and see river habitat restoration firsthand.\n\nOrganized by Ana
+ costia Watershed Society.\nSign up: https://www.anacostiaws.org/event/202
+ 6-anacostia-river-discovery-series/2026-09-17/
+LOCATION:Navy Yard — Diamond Teague Park\, 100 Potomac Avenue SE\, Washing
+ ton\, DC
+URL:https://www.anacostiaws.org/event/2026-anacostia-river-discovery-serie
+ s/2026-09-17/
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-21@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260924T173000
+DTEND:20260924T183000
+SUMMARY:Anacostia River Discovery Series Boat Tour
+DESCRIPTION:Join the Anacostia Watershed Society for a boat tour exploring
+  the ecological and historical changes in the river and surrounding commu
+ nities\, and see river habitat restoration firsthand.\n\nOrganized by Ana
+ costia Watershed Society.\nSign up: https://www.anacostiaws.org/event/202
+ 6-anacostia-river-discovery-series-21/
+LOCATION:Kingman Island — Kingman Island Dock\, 575 Oklahoma Avenue NE\, W
+ ashington\, DC
+URL:https://www.anacostiaws.org/event/2026-anacostia-river-discovery-serie
+ s-21/
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-22@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20261107T100000
+DTEND:20261107T120000
+SUMMARY:Anacostia River Discovery Series Boat Tour
+DESCRIPTION:Join the Anacostia Watershed Society for a morning boat tour e
+ xploring the ecological and historical changes in the river and surroundi
+ ng communities\, and see river habitat restoration firsthand.\n\nOrganize
+ d by Anacostia Watershed Society.\nSign up: https://www.anacostiaws.org/e
+ vent/2026-anacostia-river-discovery-series-boat-tour-4/
+LOCATION:Anacostia Park — Anacostia Park Boat Ramp\, 1500 Anacostia Drive\
+ , Washington\, DC
+URL:https://www.anacostiaws.org/event/2026-anacostia-river-discovery-serie
+ s-boat-tour-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-23@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260725T090000
+DTEND:20260725T110000
+SUMMARY:Scoop & Paddle at Thompson Boat Center
+DESCRIPTION:Join Potomac Conservancy for a Scoop & Paddle cleanup on the P
+ otomac River — get out on the water and collect trash to help improve wat
+ er quality. Equipment provided\; registration required.\n\nOrganized by P
+ otomac Conservancy.\nSign up: https://potomac.org/pc-events/2026/7/25/sco
+ op-and-paddle-at-thompson-boat-house-dc
+LOCATION:Georgetown — Thompson Boat Center\, 2900 Virginia Ave NW\, Washin
+ gton\, DC
+URL:https://potomac.org/pc-events/2026/7/25/scoop-and-paddle-at-thompson-b
+ oat-house-dc
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-24@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260801T090000
+DTEND:20260801T110000
+SUMMARY:Scoop & Paddle at Bladensburg Waterfront Park
+DESCRIPTION:Join Potomac Conservancy for a Scoop & Paddle cleanup on the w
+ ater at Bladensburg Waterfront Park. Collect trash from the shoreline and
+  river to protect water quality. Equipment provided\; registration requir
+ ed.\n\nOrganized by Potomac Conservancy.\nSign up: https://potomac.org/ev
+ ents
+LOCATION:Bladensburg — Bladensburg Waterfront Park\, 4601 Annapolis Road\,
+  Bladensburg\, MD
+URL:https://potomac.org/events
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-25@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260919T090000
+DTEND:20260919T110000
+SUMMARY:Potomac Paddle-Off at Thompson Boat Center
+DESCRIPTION:Potomac Conservancy's Paddle-Off at Thompson Boat Center — a c
+ ommunity celebration on the Potomac combining paddling and a river cleanu
+ p. Registration required.\n\nOrganized by Potomac Conservancy.\nSign up: 
+ https://potomac.org/pc-events/2026/9/19/potomac-paddle-off-at-thompson-bo
+ at-center
+LOCATION:Georgetown — Thompson Boat Center\, 2900 Virginia Ave NW\, Washin
+ gton\, DC
+URL:https://potomac.org/pc-events/2026/9/19/potomac-paddle-off-at-thompson
+ -boat-center
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-26@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260707T180000
+DTEND:20260707T190000
+SUMMARY:Anacostia River Explorers Boat Tour
+DESCRIPTION:Learn about the Anacostia River's history\, wildlife\, environ
+ mental threats it faces\, and solutions helping it realize its full poten
+ tial in this guided boat tour led by the Anacostia Riverkeeper. Departs f
+ rom the Kingman Island boat dock.\n\nOrganized by Anacostia Riverkeeper.\
+ nSign up: https://www.kingmanisland.com/calendar/ark-boat-tour-july-2026
+LOCATION:Kingman Island — Kingman Island\, 575 Oklahoma Avenue NE\, Washin
+ gton\, DC
+URL:https://www.kingmanisland.com/calendar/ark-boat-tour-july-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-27@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260711T090000
+DTEND:20260711T100000
+SUMMARY:Kids with Bins: Youth-Led Bird Walk
+DESCRIPTION:Join DC Bird Alliance Junior Ambassador Ali for a special bird
+  walk through Kingman and Heritage Islands designed with young people in 
+ mind.\n\nOrganized by DC Bird Alliance.\nSign up: https://www.kingmanisla
+ nd.com/calendar/kids-with-bins-youth-led-bird-walk
+LOCATION:Kingman Island — Kingman Island\, 575 Oklahoma Avenue NE\, Washin
+ gton\, DC
+URL:https://www.kingmanisland.com/calendar/kids-with-bins-youth-led-bird-w
+ alk
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-29@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260721T203000
+DTEND:20260721T223000
+SUMMARY:FrogWatch Field Monitoring Session
+DESCRIPTION:Join DOEE\, Living Classrooms\, and your neighbors for FrogWat
+ ch\, a community science program monitoring frog populations on Kingman a
+ nd Heritage Islands.\n\nOrganized by DC Department of Energy & Environmen
+ t.\nSign up: https://www.kingmanisland.com/calendar/frogwatch-july-2026
+LOCATION:Kingman Island — Kingman Island\, 575 Oklahoma Avenue NE\, Washin
+ gton\, DC
+URL:https://www.kingmanisland.com/calendar/frogwatch-july-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-30@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260801T100000
+DTEND:20260801T123000
+SUMMARY:First Saturdays Invasive Plant Management Workday
+DESCRIPTION:Join DOEE staff and your neighbors the first Saturday of each 
+ month to remove invasive plants on and near Kingman and Heritage Islands.
+ \n\nOrganized by DC Department of Energy & Environment.\nSign up: https:/
+ /www.kingmanisland.com/calendar/first-saturdays-may-2026-lrx94-sfabn
+LOCATION:Kingman Island — Kingman Island\, 575 Oklahoma Avenue NE\, Washin
+ gton\, DC
+URL:https://www.kingmanisland.com/calendar/first-saturdays-may-2026-lrx94-
+ sfabn
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-31@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260818T180000
+DTEND:20260818T190000
+SUMMARY:Anacostia River Explorers Boat Tour
+DESCRIPTION:Learn about the Anacostia River's history\, wildlife\, environ
+ mental threats it faces\, and solutions helping it realize its full poten
+ tial in this guided boat tour led by the Anacostia Riverkeeper. Departs f
+ rom the Kingman Island boat dock.\n\nOrganized by Anacostia Riverkeeper.\
+ nSign up: https://www.kingmanisland.com/calendar/ark-boat-tour-august-202
+ 6
+LOCATION:Kingman Island — Kingman Island\, 575 Oklahoma Avenue NE\, Washin
+ gton\, DC
+URL:https://www.kingmanisland.com/calendar/ark-boat-tour-august-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-32@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260820T200000
+DTEND:20260820T220000
+SUMMARY:FrogWatch Field Monitoring Session
+DESCRIPTION:Join DOEE\, Living Classrooms\, and your neighbors for FrogWat
+ ch\, a community science program monitoring frog populations on Kingman a
+ nd Heritage Islands.\n\nOrganized by DC Department of Energy & Environmen
+ t.\nSign up: https://www.kingmanisland.com/calendar/frogwatch-august-2026
+LOCATION:Kingman Island — Kingman Island\, 575 Oklahoma Avenue NE\, Washin
+ gton\, DC
+URL:https://www.kingmanisland.com/calendar/frogwatch-august-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-33@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20261003T100000
+DTEND:20261003T123000
+SUMMARY:First Saturdays Invasive Plant Management Workday
+DESCRIPTION:Join DOEE staff and your neighbors the first Saturday of each 
+ month to remove invasive plants on and near Kingman and Heritage Islands.
+ \n\nOrganized by DC Department of Energy & Environment.\nSign up: https:/
+ /www.kingmanisland.com/calendar/first-saturdays-may-2026-lrx94-sfabn-j8ef
+ 5
+LOCATION:Kingman Island — Kingman Island\, 575 Oklahoma Avenue NE\, Washin
+ gton\, DC
+URL:https://www.kingmanisland.com/calendar/first-saturdays-may-2026-lrx94-
+ sfabn-j8ef5
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-34@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20261017T110000
+DTEND:20261017T150000
+SUMMARY:6th Annual Kingman Island Friends and Family Day
+DESCRIPTION:The 6th annual Kingman Island Friends and Family Day — a commu
+ nity celebration on the islands. More details to be announced on the King
+ man Island site.\n\nOrganized by DC Department of Energy & Environment.\n
+ Sign up: https://www.kingmanisland.com/calendar/6th-annual-kingman-island
+ -friends-and-family-day
+LOCATION:Kingman Island — Kingman Island\, 575 Oklahoma Avenue NE\, Washin
+ gton\, DC
+URL:https://www.kingmanisland.com/calendar/6th-annual-kingman-island-frien
+ ds-and-family-day
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-35@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20261107T100000
+DTEND:20261107T123000
+SUMMARY:First Saturdays Invasive Plant Management Workday
+DESCRIPTION:Join DOEE staff and your neighbors the first Saturday of each 
+ month to remove invasive plants on and near Kingman and Heritage Islands.
+ \n\nOrganized by DC Department of Energy & Environment.\nSign up: https:/
+ /www.kingmanisland.com/calendar/first-saturdays-may-2026-lrx94-sfabn-j8ef
+ 5-kns96
+LOCATION:Kingman Island — Kingman Island\, 575 Oklahoma Avenue NE\, Washin
+ gton\, DC
+URL:https://www.kingmanisland.com/calendar/first-saturdays-may-2026-lrx94-
+ sfabn-j8ef5-kns96
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-36@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20261205T100000
+DTEND:20261205T123000
+SUMMARY:First Saturdays Invasive Plant Management Workday
+DESCRIPTION:Join DOEE staff and your neighbors the first Saturday of each 
+ month to remove invasive plants on and near Kingman and Heritage Islands.
+ \n\nOrganized by DC Department of Energy & Environment.\nSign up: https:/
+ /www.kingmanisland.com/calendar/first-saturdays-may-2026-lrx94-sfabn-j8ef
+ 5-kns96-scj5p
+LOCATION:Kingman Island — Kingman Island\, 575 Oklahoma Avenue NE\, Washin
+ gton\, DC
+URL:https://www.kingmanisland.com/calendar/first-saturdays-may-2026-lrx94-
+ sfabn-j8ef5-kns96-scj5p
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-37@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260801T090000
+DTEND:20260801T100000
+SUMMARY:Kids with Bins: Youth-Led Bird Walk
+DESCRIPTION:Join DC Bird Alliance Junior Ambassador Ali for a special bird
+  walk through Kingman and Heritage Islands designed with young people in 
+ mind.\n\nOrganized by DC Bird Alliance.\nSign up: https://www.kingmanisla
+ nd.com/calendar/kids-with-bins-youth-led-bird-walk-w28en
+LOCATION:Kingman Island — Kingman Island\, 575 Oklahoma Avenue NE\, Washin
+ gton\, DC
+URL:https://www.kingmanisland.com/calendar/kids-with-bins-youth-led-bird-w
+ alk-w28en
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-38@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260803T180000
+DTEND:20260803T190000
+SUMMARY:Kingman & Heritage Islands Virtual Charrette: Access and Safety
+DESCRIPTION:A virtual community input session on Access and Safety for the
+  Kingman & Heritage Islands Trails and Amenities Design Project — share h
+ ow you experience the Islands and help inform future planning.\n\nOrganiz
+ ed by DC Department of Energy & Environment.\nSign up: https://www.kingma
+ nisland.com/calendar/kingman-heritage-islands-virtual-charrette-on-access
+ -and-safety
+LOCATION:Virtual — Online — join link on the event page
+URL:https://www.kingmanisland.com/calendar/kingman-heritage-islands-virtua
+ l-charrette-on-access-and-safety
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-39@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260805T100000
+DTEND:20260805T120000
+SUMMARY:Kingman & Heritage Islands In-Person Charrette: Access and Safety
+DESCRIPTION:An in-person charrette at the Dorothy I. Height/Benning Neighb
+ orhood Library focused on Access and Safety — learn about the Islands' Tr
+ ails and Amenities Design Project and connect directly with the project t
+ eam.\n\nOrganized by DC Department of Energy & Environment.\nSign up: htt
+ ps://www.kingmanisland.com/calendar/kingman-heritage-islands-in-person-ch
+ arrette-on-access-and-safety
+LOCATION:Benning — Dorothy I. Height/Benning Neighborhood Library\, 3935 B
+ enning Road NE\, Washington\, DC
+URL:https://www.kingmanisland.com/calendar/kingman-heritage-islands-in-per
+ son-charrette-on-access-and-safety
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-40@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260808T100000
+DTEND:20260808T120000
+SUMMARY:Kingman & Heritage Islands Site Walk: Access and Safety
+DESCRIPTION:A guided site walk with DOEE and the design project team\, wit
+ h self-guided stations to better understand existing conditions on the Is
+ lands and the community feedback shaping the plan.\n\nOrganized by DC Dep
+ artment of Energy & Environment.\nSign up: https://www.kingmanisland.com/
+ calendar/kingman-heritage-islands-site-walk-access-and-safety
+LOCATION:Kingman Island — Kingman Island\, 575 Oklahoma Avenue NE\, Washin
+ gton\, DC
+URL:https://www.kingmanisland.com/calendar/kingman-heritage-islands-site-w
+ alk-access-and-safety
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-41@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260810T180000
+DTEND:20260810T190000
+SUMMARY:Kingman & Heritage Islands Virtual Charrette: Education and Ecolog
+ y
+DESCRIPTION:A virtual community input session on Education and Ecology — t
+ he Islands' natural resources\, environmental stewardship\, and how futur
+ e planning can strengthen educational experiences.\n\nOrganized by DC Dep
+ artment of Energy & Environment.\nSign up: https://www.kingmanisland.com/
+ calendar/kingman-heritage-islands-virtual-charrette-on-education-and-ecol
+ ogy
+LOCATION:Virtual — Online — join link on the event page
+URL:https://www.kingmanisland.com/calendar/kingman-heritage-islands-virtua
+ l-charrette-on-education-and-ecology
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-42@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260812T100000
+DTEND:20260812T110000
+SUMMARY:Kingman & Heritage Islands Site Walk: Education and Ecology
+DESCRIPTION:A guided site walk with DOEE and the design project team focus
+ ed on the Islands' ecology and educational opportunities\, informing the 
+ Trails and Amenities Design Project.\n\nOrganized by DC Department of Ene
+ rgy & Environment.\nSign up: https://www.kingmanisland.com/calendar/kingm
+ an-heritage-islands-site-walk-education-and-ecology
+LOCATION:Kingman Island — Kingman Island\, 575 Oklahoma Avenue NE\, Washin
+ gton\, DC
+URL:https://www.kingmanisland.com/calendar/kingman-heritage-islands-site-w
+ alk-education-and-ecology
+END:VEVENT
+BEGIN:VEVENT
+UID:dcgreen-43@dc-green-events
+DTSTAMP:20260717T234242Z
+DTSTART:20260812T130000
+DTEND:20260812T150000
+SUMMARY:Kingman & Heritage Islands In-Person Charrette: Education and Ecol
+ ogy
+DESCRIPTION:An in-person charrette focused on Education and Ecology for th
+ e Islands' Trails and Amenities Design Project. Location to be announced 
+ on the event page.\n\nOrganized by DC Department of Energy & Environment.
+ \nSign up: https://www.kingmanisland.com/calendar/kingman-heritage-island
+ s-in-person-charrette-on-education-and-ecology
+LOCATION:Location TBA — Location to be announced — details on the event pa
+ ge
+URL:https://www.kingmanisland.com/calendar/kingman-heritage-islands-in-per
+ son-charrette-on-education-and-ecology
+END:VEVENT
+END:VCALENDAR
