@@ -12,7 +12,7 @@
       "sep 23",
       "sep 26"
     ],
-    "checked": "2026-07-18"
+    "checked": "2026-07-20"
   },
   "https://www.anacostiaws.org/events/": {
     "hash": "023af35298017934b4aad154e237f4b34a58d841ec1192587020724c7dd2d427",
@@ -32,7 +32,7 @@
       "october 28",
       "november 7"
     ],
-    "checked": "2026-07-18"
+    "checked": "2026-07-20"
   },
   "https://potomac.org/events": {
     "hash": "5ef7d4b8821149c8b15f864519661bfcd0d1f77611c54ff410cce6c9965c1f16",
@@ -46,13 +46,11 @@
       "sep 19",
       "september 19, 2026"
     ],
-    "checked": "2026-07-18"
+    "checked": "2026-07-20"
   },
   "https://www.kingmanisland.com/calendar": {
-    "hash": "3672caf467eb101b8a1ec0d70ca7a87a0f5aa3bb497662964713cd8286fd6f0c",
+    "hash": "4b548ae627c8e3d95309753af4b6edae35d9e863443785b9712014e5bbc7bc7f",
     "dates": [
-      "jul 18",
-      "july 18, 2026",
       "jul 21",
       "july 21, 2026",
       "aug 1",
@@ -69,6 +67,8 @@
       "august 10, 2026",
       "aug 12",
       "august 12, 2026",
+      "aug 16",
+      "august 16, 2026",
       "aug 18",
       "august 18, 2026",
       "aug 20",
@@ -83,6 +83,8 @@
       "november 7, 2026",
       "dec 5",
       "december 5, 2026",
+      "jul 18",
+      "july 18, 2026",
       "jul 11",
       "july 11, 2026",
       "jul 7",
@@ -130,25 +132,41 @@
       "mar 7",
       "march 7, 2026",
       "feb 28",
-      "february 28, 2026",
-      "feb 21",
-      "february 21, 2026"
+      "february 28, 2026"
     ],
-    "checked": "2026-07-18"
+    "checked": "2026-07-20"
   },
   "https://www.anacostiariverkeeper.org/events-calendar/": {
-    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "dates": [],
-    "checked": "2026-07-18"
+    "hash": "ca391393d12b45ac23ca34060f307009902d76e85d480664dde3df6c10f14067",
+    "dates": [
+      "july 7",
+      "july 10",
+      "july 11",
+      "july 16",
+      "july 17",
+      "july 21",
+      "marina 0",
+      "july 24",
+      "july 25",
+      "july 31",
+      "july 21, 2026",
+      "july 24, 2026",
+      "july 25, 2026",
+      "july 31, 2026",
+      "august 4, 2026",
+      "august 7, 2026",
+      "august 14, 2026"
+    ],
+    "checked": "2026-07-20"
   },
   "https://www.rockcreekconservancy.org/calendar": {
     "hash": "cf30af5f91f006da618047267a30499f7b0f6657311ef740a2d61634d1e95ba6",
     "dates": [],
-    "checked": "2026-07-18"
+    "checked": "2026-07-20"
   },
   "https://doee.dc.gov/events": {
-    "hash": "ea0aa90d28cb0334afb744602dfd3354d8101dd099203562e135e55843b057fd",
+    "hash": "abf18f32a8e72fd17887cb812d5ae756f0f94cb3bf6050bef9bae0df09173c69",
     "dates": [],
-    "checked": "2026-07-18"
+    "checked": "2026-07-20"
   }
 }
