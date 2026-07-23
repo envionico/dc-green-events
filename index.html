@@ -81,14 +81,14 @@
          tallies page views only — no cookies, no personal data, no ads.
          Guarded so it ONLY runs on the real deployed site (any hostname
          containing "dcgreenevents"), never in previews or local copies.
-         Dashboard: https://dcgreenevents.goatcounter.com
+         Dashboard: https://environico.goatcounter.com
          ============================================================ -->
     <script>
       if (/dcgreenevents/.test(location.hostname)) {
         var gc = document.createElement("script");
         gc.async = true;
         gc.src = "https://gc.zgo.at/count.js";
-        gc.setAttribute("data-goatcounter", "https://dcgreenevents.goatcounter.com/count");
+        gc.setAttribute("data-goatcounter", "https://environico.goatcounter.com/count");
         document.head.appendChild(gc);
       }
     </script>
