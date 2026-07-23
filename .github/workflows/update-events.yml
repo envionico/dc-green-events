@@ -1,3 +1,25 @@
+# ============================================================
+# Weekly event-source automation
+# ------------------------------------------------------------
+# Runs every Monday morning (and on demand from the Actions tab)
+# once this project lives on GitHub. Two jobs:
+#
+#   1. import-feeds  — pulls structured iCal feeds (start with
+#      the Kingman Island calendar) into the pending-review queue
+#      and opens a PULL REQUEST with the candidates. Nothing goes
+#      live: you review the PR, fix up org/type/coords, promote
+#      entries into events.json, and merge. With Netlify
+#      connected, the merge auto-deploys.
+#
+#   2. watch-sources — fingerprints every organizer page and
+#      opens an ISSUE listing which pages changed (and what new
+#      dates appeared), so you only hand-check pages that moved.
+#
+# First run records baselines; nothing is ever published
+# automatically. To add more feeds, duplicate the import step
+# with another --url. Confirm a Squarespace feed exists by
+# opening <site>/calendar?format=ical in a browser.
+# ============================================================
 name: Weekly event source check
 
 on:
@@ -14,18 +36,24 @@ jobs:
   import-feeds:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
         with:
-          node-version: 20
+          node-version: 22
       - name: Import Kingman Island iCal feed into pending queue
         run: |
           node scripts/import-ics.mjs \
             --url "https://www.kingmanisland.com/calendar?format=ical" \
             --org "Kingman Island calendar — set true organizer during review" \
             --write || echo "feed unavailable — skipping"
+      - name: Import Anacostia Riverkeeper iCal feed into pending queue
+        run: |
+          node scripts/import-ics.mjs \
+            --url "https://www.anacostiariverkeeper.org/?post_type=tribe_events&ical=1&eventDisplay=list" \
+            --org "Anacostia Riverkeeper" \
+            --write || echo "feed unavailable — skipping"
       - name: Open a review PR if there are new candidates
-        uses: peter-evans/create-pull-request@v6
+        uses: peter-evans/create-pull-request@v7
         with:
           branch: auto/event-candidates
           title: "New event candidates for review"
@@ -47,16 +75,16 @@ jobs:
   watch-sources:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
         with:
-          node-version: 20
+          node-version: 22
       - name: Check organizer pages for changes
         id: check
         run: node scripts/check-sources.mjs | tee /tmp/report.txt
       - name: Open an issue listing changed sources
         if: contains(steps.check.outputs.changes, 'true')
-        uses: actions/github-script@v7
+        uses: actions/github-script@v8
         with:
           script: |
             const fs = require('fs');
