@@ -94,12 +94,20 @@ const Icon = {
    LAST_UPDATED: change this to the date you last checked the
      organizers' pages and refreshed events.json. It shows in
      the footer so visitors know how current the list is.
-   SUGGEST_EMAIL: where "Suggest an event" messages go. Replace
      with your own email (or swap the mailto: link in the footer
      for a Google Form URL if you'd rather collect them that way).
    ============================================================ */
-const LAST_UPDATED = "2026-07-17"; // YYYY-MM-DD
+const LAST_UPDATED = "2026-07-23"; // YYYY-MM-DD
+
+// Where "Submit an event" messages are addressed. This is a placeholder —
+// submissions go nowhere until you replace it with a real address you're
+// comfortable making public (a dedicated one, not personal).
 const SUGGEST_EMAIL = "you@example.com"; // <-- change to your email
+// The footer's "Submit an event" button only appears once a real address is
+// set above. While it's the placeholder, the button hides itself — so
+// visitors are never offered a form whose submissions would go nowhere.
+// Set a real email and the feature switches on with no other changes.
+const SUBMIT_ENABLED = !SUGGEST_EMAIL.includes("example.com");
 
 /* ============================================================
    CONFIG: event types + their accent colors
@@ -1007,12 +1015,10 @@ function MapView({ events, onOpen }) {
    Validates the fields, then produces a structured "pending
    event" (matching the site's data schema, marked
    status: "pending-review") that the visitor sends by email or
-   copies. Nothing goes live automatically: submissions land in
-   the maintainer's inbox, get pasted into
-   data/pending-events.json for review, and are only moved into
-   events.json once the details check out. This site has no
-   server by design, so email is the delivery channel — but the
-   form does the structuring and validating a server would.
+   copies. Nothing goes live automatically: submissions are
+   reviewed and only then moved into events.json. This site has
+   no server by design, so email is the delivery channel — but
+   the form does the structuring and validating a server would.
    ============================================================ */
 function SubmitEventModal({ onClose }) {
   const [form, setForm] = useState({
@@ -1802,9 +1808,15 @@ export default function App() {
 
           <div className="footer-bar">
             <div className="footer-suggest">
-              Know an event we&rsquo;re missing?{" "}
-              <button className="footer-link-btn" onClick={() => setSubmitOpen(true)}>Submit an event</button>
-              <span className="footer-dot">·</span>
+              {SUBMIT_ENABLED ? (
+                <>
+                  Know an event we&rsquo;re missing?{" "}
+                  <button className="footer-link-btn" onClick={() => setSubmitOpen(true)}>Submit an event</button>
+                  <span className="footer-dot">·</span>
+                </>
+              ) : (
+                <>Want these events in your own calendar?{" "}</>
+              )}
               <a
                 className="footer-link-btn"
                 href="calendar.ics"
