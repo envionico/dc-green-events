@@ -1,58 +1,58 @@
 {
   "https://caseytrees.org/get-involved/volunteer-events/": {
-    "hash": "525374ac5f7f64f266de5e928264dc68b5078da30d98554e82c4e0bed03f726d",
+    "hash": "a95770408365a3dc3dba378c8d23952a83c1cc594e957a365ea1aef0a4ee89d5",
     "dates": [
-      "sep 12",
       "sep 19",
+      "september 19",
       "sep 20",
       "sep 23",
+      "sep 25",
       "sep 26",
       "sep 29",
-      "oct 3"
+      "oct 3",
+      "oct 12"
     ],
-    "checked": "2026-09-07"
+    "checked": "2026-09-14"
   },
   "https://www.anacostiaws.org/events/": {
-    "hash": "12fb8fdbe0748c1effd9b2f1461c61f8785c7e1a6ac7bda05519231447e45328",
+    "hash": "112682e946fd62f3e5759c798e7c9668cc953d3bec9e48e019d172260e12a47b",
     "dates": [
-      "september 8",
-      "september 23",
-      "september 9",
-      "september 9, 2026",
-      "september 15, 2026",
-      "september 10",
-      "september 11",
-      "september 11, 2026",
-      "september 12",
-      "september 12, 2026",
       "september 15",
+      "november 7",
       "september 17",
       "september 19",
       "september 21",
       "september 21, 2026",
       "september 22",
       "september 22, 2026",
-      "september 23, 2026"
+      "september 23",
+      "september 23, 2026",
+      "september 24",
+      "september 26",
+      "september 26, 2026",
+      "october 1",
+      "october 6",
+      "october 6, 2026",
+      "october 28",
+      "november 7, 2026"
     ],
-    "checked": "2026-09-07"
+    "checked": "2026-09-14"
   },
   "https://potomac.org/events": {
-    "hash": "667a12b2ca57f79766aeef950c8b00a1e3e647bee4e1655dca3b15c1d51845cf",
+    "hash": "0c2be73a42e72bd757785270de62e73d6fa497c79d67e05628fb1300e709769e",
     "dates": [
       "sep 19",
       "september 19, 2026",
       "sep 26",
-      "september 26, 2026"
+      "september 26, 2026",
+      "oct 17",
+      "october 17, 2026"
     ],
-    "checked": "2026-09-07"
+    "checked": "2026-09-14"
   },
   "https://www.kingmanisland.com/calendar": {
-    "hash": "0292cbd58594858e70b5ad0990c5c1dc160e4281f46e636aec194b6e8085515f",
+    "hash": "9c675f269821701e6abcb22d9e3d0b1d6a44564414dd0c352c11f5f97f938642",
     "dates": [
-      "sep 8",
-      "september 8, 2026",
-      "sep 9",
-      "september 9, 2026",
       "sep 20",
       "september 20, 2026",
       "sep 23",
@@ -67,8 +67,14 @@
       "october 17, 2026",
       "nov 7",
       "november 7, 2026",
+      "nov 21",
+      "november 21, 2026",
       "dec 5",
       "december 5, 2026",
+      "sep 9",
+      "september 9, 2026",
+      "sep 8",
+      "september 8, 2026",
       "aug 30",
       "august 30, 2026",
       "aug 25",
@@ -114,13 +120,9 @@
       "jun 6",
       "june 6, 2026",
       "may 19",
-      "may 19, 2026",
-      "may 16",
-      "may 16, 2026",
-      "may 2",
-      "may 2, 2026"
+      "may 19, 2026"
     ],
-    "checked": "2026-09-07"
+    "checked": "2026-09-14"
   },
   "https://www.anacostiariverkeeper.org/events-calendar/": {
     "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
@@ -128,13 +130,13 @@
     "checked": "2026-09-07"
   },
   "https://www.rockcreekconservancy.org/calendar": {
-    "hash": "0fbdbdbda303a1ddc5bbe4990e52b6e8f211beb3cc1ab07127689aef782be72f",
+    "hash": "8cf009eecfc1141bff80ff24bccd728b5ab41ca7ce3f65200e91d5cd1c54c1dd",
     "dates": [],
-    "checked": "2026-09-07"
+    "checked": "2026-09-14"
   },
   "https://doee.dc.gov/events": {
-    "hash": "8bfa2638bb0e06e1b0afab0596aa502c9ffb3238afe3eb63391ee196858ea6cd",
+    "hash": "76e66ade54ee73649300ff5edbcd94cdeba62c5d22e86dc0f57684e1c1d7f1cf",
     "dates": [],
-    "checked": "2026-09-07"
+    "checked": "2026-09-14"
   }
 }
